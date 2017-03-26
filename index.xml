@@ -25,8 +25,7 @@
       <pubDate>Tue, 13 Oct 2015 23:12:00 +0000</pubDate>
       
       <guid>http://example.com/about/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam in dui mauris. Vivamus hendrerit arcu sed erat molestie vehicula. Sed auctor neque eu tellus rhoncus ut eleifend nibh porttitor. Ut in nulla enim. Phasellus molestie magna non est bibendum non venenatis nisl tempor. Suspendisse dictum feugiat nisl ut dapibus. Mauris iaculis porttitor posuere. Praesent id metus massa, ut blandit odio. Proin quis tortor orci. Etiam at risus et justo dignissim congue. Donec congue lacinia dui, a porttitor lectus condimentum laoreet.&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Sed auctor neque eu tellus rhoncus ut eleifend nibh porttitor. Ut in nulla enim. Phasellus molestie magna non est bibendum non venenatis nisl tempor. Suspendisse dictum feugiat nisl ut dapibus. Mauris iaculis porttitor posuere. Praesent id metus massa, ut blandit odio. Proin quis tortor orci. Etiam at risus et justo dignissim congue. Donec congue lacinia dui, a porttitor lectus condimentum laoreet.&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;So over here we can change the about text and forestry will re-render the Hugo template and generate the new HTML files&lt;/b&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
